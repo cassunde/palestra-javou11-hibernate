@@ -12,6 +12,6 @@ Executa rotina com muita responsabilidade nas entidade, ocasionando em erros e e
 # Tecnologia Utilizada no projeto
 Java 8
 
-CDI
+CDI 2.0 com a implementação weld - 3.0.0
 
 PostgreSQL

@@ -8,3 +8,10 @@ Executa rotina enxuta, onde tiramos um pouco da responsabilidade do hibernate e 
 *  MainMore.java
 
 Executa rotina com muita responsabilidade nas entidade, ocasionando em erros e execução de vários selects
+
+# Tecnologia Utilizada no projeto
+Java 8
+
+CDI
+
+PostgreSQL

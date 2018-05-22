@@ -1,5 +1,5 @@
 # palestra-javou11-hibernate
-Projeto apresentado na palestra Javou11
+Projeto apresentado na palestra Javou11 - JavaCe
 
 * Main.java
 
